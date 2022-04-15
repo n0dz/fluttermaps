@@ -1,6 +1,7 @@
-# placesnearby
+# Google Maps & Places Api Example in Flutter
 
-google maps and places api Flutter project.
+Normal map with current location in home screen.
+Search for nearby places (restraunts, parks, banks, ATM, etc).
 
 ## Getting Started
 
